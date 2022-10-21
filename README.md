@@ -4,7 +4,8 @@ Werde hier einfach Anki packages für alle Fächer hochladen, die mich betreffen
 
 Die Packages selber sollte man bei dem Releases-Tab finden
 
-**Verzeichnis**
+
+_**Verzeichnis**_
 
 7. Klasse
 8. Klasse

@@ -6,7 +6,7 @@ Die Packages selber sollte man bei dem Releases-Tab finden.
 
 **Verzeichnis**
 
-[7. Klasse](https://github.com/Iwan6874/iwan-anki/blob/main/7-Klasse.md "7. Klasse")
+[7. Klasse](https://github.com/Iwan6874/iwan-anki/blob/main/folder1/7-Klasse.md "7. Klasse")
 
 [8. Klasse](https://github.com/Iwan6874/iwan-anki/blob/main/8-Klasse.md "8. Klasse")
 

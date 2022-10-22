@@ -1,3 +1,3 @@
-# 7 Klasse
+# 7. Klasse
 
 Französisch
